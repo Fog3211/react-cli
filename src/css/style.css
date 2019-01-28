@@ -1,0 +1,19 @@
+.app{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    text-align: center;
+}
+.app .count{
+    width: 100%;
+    font-size: 58px;
+    line-height: 150px;
+}
+.app .btn-group button{
+    width: 80px;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
