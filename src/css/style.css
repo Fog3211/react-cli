@@ -17,3 +17,10 @@
     margin: 5px;
     font-size: 20px;
 }
+.main .goback{
+    cursor: pointer;
+}
+
+.home-link h1{
+    text-align: center;
+}
